@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\opilane\source\repos\titpe21\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
